@@ -29,3 +29,5 @@ Este é um projeto Java que implementa um sistema bancário simples com conceito
 5. **Remova Contas (Opcional):**
    - Se necessário, utilize o método `removerConta` para remover uma conta do banco.
 
+## Diagrama de Classes
+![Diagrama de Classe](https://lucid.app/publicSegments/view/0a058a2d-3ef4-4947-8add-a1331134be15/image.png)
